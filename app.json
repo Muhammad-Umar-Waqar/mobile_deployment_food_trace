@@ -4,14 +4,10 @@
     "slug": "FrostKontroll",
     "version": "1.0.0",
     "icon": "./assets/icon.png",
-
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-       "backgroundColor": "#FFFFFF"  
-    },
-    "extra": {
-      "eas": { "projectId": "cbc2f5b0-187e-4db0-97e4-fb69129b0901" }
+      "backgroundColor": "#FFFFFF"
     },
     "android": {
       "package": "com.umarwaqar12.FrostKontroll",
@@ -19,7 +15,12 @@
         "foregroundImage": "./assets/splash.png",
         "backgroundColor": "#FFFFFF"
       }
-
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "aab46f64-3d7f-487e-b2c0-ab1b65b2c333"
+      }
+    },
+    "owner": "umarwaqar12"
   }
 }
